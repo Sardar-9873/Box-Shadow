@@ -1,0 +1,13 @@
+div {
+    height: 200px;
+    width: 300px;
+    background: #196ba3; /* Same main box color */
+    box-shadow:
+        8px 8px 0px 0px #2289d1,
+        16px 16px 0px 0px #4db3ff,
+        24px 24px 0px 0px #80ccff,
+        32px 32px 0px 0px #b3e0ff,
+        40px 40px 0px 0px #e6f5ff;
+}
+
+
